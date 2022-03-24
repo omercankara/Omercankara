@@ -12,7 +12,7 @@
 
 # 🌱 I’m currently learning <span style="color:green;">VUE JS</span>
 
-#  👨‍💻 All of my projects are available at [github.com/omercankara](github.com/omercankara) 
+#  👨‍💻 All of my projects are available at [github.com/omercankara] 
 
 
 
