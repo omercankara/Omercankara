@@ -6,11 +6,11 @@
 
 # -  A passionate Front End Developer from <span style="color:red">TURKEY</span>
 
-## - 🔭 I’m currently working on  <span style="color:yellow;">JAVASCRİPT</span>
+## - 🔭 I’m currently working on  <span style="color:yellow;">JavaScript</span>
 
 
 
-# 🌱 I’m currently learning <span style="color:green;">VUE JS</span>
+# 🌱 I’m currently learning <span style="color:green;">Vue JS</span>
 
 #  👨‍💻 All of my projects are available at [github.com/omercankara] 
 
