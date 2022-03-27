@@ -34,7 +34,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/> </a> 
  
  
- <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jquery/jquery-ar21.svg"
+ <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jquery/jquery-ar21.svg" alt="mysql" width="100" height="100"/>
  
  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="100"/> </a> 
