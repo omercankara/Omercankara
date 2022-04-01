@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Omercan</h1>
 
-# -  A passionate Front End Software Developer from <span style="color:red">TURKEY</span>
+# -  A passionate Front End  Developer from <span style="color:red">TURKEY</span>
 
 ## - 🔭 I’m currently working on  <span style="color:yellow;">JavaScript</span>
 
