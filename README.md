@@ -12,18 +12,12 @@
 
 # 🌱 I’m currently learning <span style="color:green;">Vue JS</span>
 
-#  👨‍💻 All of my projects are available at [github.com/omercankara] 
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omercankara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omercankara" height="30" width="40" /></a>
-<a href="https://instagram.com/omercannkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omercannkara" height="30" width="40" /></a> <br>
 
-</p>
 
- #  you can ask me questions on instagram
+
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
