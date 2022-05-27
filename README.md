@@ -6,7 +6,7 @@
 
 # -  A passionate Front End  Developer from <span style="color:red">TURKEY</span>
 
-## - 🔭 I do Deep Research And Study on JavaScript  <span style="color:yellow;">JavaScript</span>
+## - 🔭 I do Deep Research And Study on   <span style="color:yellow;">JavaScript</span>
 
 
 
