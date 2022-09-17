@@ -10,7 +10,7 @@
 
 
 
-# 🌱 I’m currently learning <span style="color:green;">Vue JS</span>
+# 🌱 I’m currently learning <span style="color:green;">Vue JS AND Nuxt JS</span>
 
 
 
