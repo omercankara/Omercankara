@@ -58,7 +58,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/374537596/64e3c480-c7c7-11eb-8d75-11f1b8d0a04f" alt="insomnia" width="100" height="100"/> </a>
   
   
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="POSTMAN" width="100" height="100"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="POSTMAN" width="100" height="100"/> </a>
 
   
   <a href="" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="xd" width="200" height="100"/> </a>
