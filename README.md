@@ -40,6 +40,9 @@
   
  <a target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/coursetro/posts/144-full.png" width="200" height="100"></a>
   
+   <a target="_blank" rel="noreferrer"> <img src="  https://upload.wikimedia.org/wikipedia/commons/9/9b/Nuxt-logo.png" width="200" height="100"></a>
+
+  
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="vuex" width="100" height="100"/> </a>
   
   
