@@ -14,10 +14,6 @@
 
 
 
-
-
-
-
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -42,36 +38,33 @@
   
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100" height="100"/> </a> 
   
+ <a target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/coursetro/posts/144-full.png" width="200" height="100"></a>
   
-   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="vuex" width="100" height="100"/> </a>
-  
-   <a target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/coursetro/posts/144-full.png" width="200" height="100"></a>
-  
-    
-<a href="" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/374537596/64e3c480-c7c7-11eb-8d75-11f1b8d0a04f" alt="insomnia" width="100" height="100"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="vuex" width="100" height="100"/> </a>
   
   
-<a href="" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="xd" width="200" height="100"/> </a>
   
-
-  
-
-  
+   
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
   
-  
-
-  
-  
-
-  
+    
   <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="100" height="100"></a>
+
+  
+  
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/374537596/64e3c480-c7c7-11eb-8d75-11f1b8d0a04f" alt="insomnia" width="100" height="100"/> </a>
+  
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="xd" width="200" height="100"/> </a>
+  
+  
+
+
   
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="100"/> </a> 
 
  
- <a href="" target="_blank" rel="noreferrer"> <img src=" https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="postman" width="100" height="100"/> </a> 
+
 
  
 
