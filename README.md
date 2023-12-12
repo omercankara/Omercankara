@@ -40,7 +40,12 @@
 src="https://icons-for-free.com/iconfiles/png/256/nodejs+original+wordmark-1324760553895027942.png" alt="Node js" width="200" height="100"/></a> 
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
-src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" alt="Node js" width="200" height="100"/></a> 
+src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" alt="SocketİO" width="100" height="100"/></a> 
+
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="SocketİO" width="100" height="100"/></a> 
+
+
 
 
 
