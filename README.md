@@ -22,7 +22,7 @@
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://icons-for-free.com/iconfiles/png/256/css3-1331550887274886564.png" alt="css3" width="100" height="100"/></a>
 
-<a href=" https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/425/902/png-transparent-sass-style-sheet-language-cascading-style-sheets-logo-sass-purple-violet-text-thumbnail.png" alt="css3" width="100" height="100"/></a>
+<a href=" https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/256/sass+original-1324760570974748845.png" alt="css3" width="100" height="100"/></a>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/> </a>
 
