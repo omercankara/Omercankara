@@ -2,12 +2,7 @@
 
 <img  width="100%" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47fypc0qxauynurfks82outm9pvbpxlkdaqx95on9w&rid=giphy.gif&ct=g">
 
-<h1 align="center">Hi 👋, I'm Omercan</h1>
-
-# -  A passionate Front End  Developer from <span style="color:red">TURKEY</span>
-
-## - 🔭 I do Deep Research And Study on   <span style="color:yellow;">JavaScript</span>
-
+<h1 align="center">Hi 👋, I'm Ömercan</h1>
 # 🌱 I’m currently learning <span style="color:green;">Full Stack Development</span>
 
 
