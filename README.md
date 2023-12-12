@@ -25,20 +25,10 @@ src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/> </a><a target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/256/nodejs+original+wordmark-1324760553895027942.png" alt="Node js" width="100" height="150"/></a> <a target="_blank" rel="noreferrer"> <img 
 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="100" height="100"/></a>
-<a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="SocketİO" width="100" height="100"/></a>
+<a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="netcore" width="100" height="100"/></a><a  target="_blank" rel="noreferrer"> <img 
+src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" alt="SocketİO" width="100" height="100"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
 
-<a  target="_blank" rel="noreferrer"> <img 
-src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" alt="SocketİO" width="100" height="100"/></a>
-
-
-
-
-
-
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a>
-
-<img src="https://www.softwire.com/wp-content/uploads/2015/07/1_XcE0wR1ZmWLFbdF2dE5WuA.png" alt="jira" width="200" height="100"/>
+<img src="https://www.softwire.com/wp-content/uploads/2015/07/1_XcE0wR1ZmWLFbdF2dE5WuA.png" alt="sequelize" width="200" height="100"/>
 
 <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="100" height="100"></a>
 
