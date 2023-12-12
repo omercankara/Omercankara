@@ -45,6 +45,11 @@ src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="SocketİO" width="100" height="100"/></a> 
 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
+src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="SocketİO" width="100" height="100"/></a> 
+
+
+
 
 
 
@@ -63,7 +68,7 @@ src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-
 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="POSTMAN" width="100" height="100"/> </a> 
 
-<img src="https://icons-for-free.com/iconfiles/png/256/atlassian+jira-1330884264935854776.png" alt="jira" width="200" height="100"/> </a>
+<img src="https://icons-for-free.com/iconfiles/png/256/atlassian+jira-1330884264935854776.png" alt="jira" width="100" height="100"/> </a>
 
 
 
