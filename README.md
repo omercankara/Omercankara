@@ -8,9 +8,7 @@
 
 ## - 🔭 I do Deep Research And Study on   <span style="color:yellow;">JavaScript</span>
 
-
-
-# 🌱 I’m currently learning <span style="color:green;">Vue JS AND Nuxt JS</span>
+# 🌱 I’m currently learning <span style="color:green;">Full Stack Development</span>
 
 
 
