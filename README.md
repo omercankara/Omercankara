@@ -40,6 +40,11 @@
 src="https://icons-for-free.com/iconfiles/png/256/nodejs+original+wordmark-1324760553895027942.png" alt="Node js" width="200" height="100"/></a> 
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
+src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" alt="Node js" width="200" height="100"/></a> 
+
+
+
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
 src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png" alt="Express js" width="200" height="100"/> </a>
 
 
