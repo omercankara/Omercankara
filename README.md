@@ -8,7 +8,7 @@
 
 
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Programming Languages ​​I Use:</h1>
 <p align="left"> 
 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://icons-for-free.com/iconfiles/png/256/css3-1331550887274886564.png" alt="css3" width="100" height="100"/></a><a  target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/256/sass+original-1324760570974748845.png" alt="css3" width="100" height="100"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1200px-Logo_jQuery.svg.png"  width="200" height="100">
