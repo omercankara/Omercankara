@@ -1,6 +1,6 @@
 
 
-<img  width="100%" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47fypc0qxauynurfks82outm9pvbpxlkdaqx95on9w&rid=giphy.gif&ct=g">
+
 
 <h1 align="center">Hi 👋, I'm Ömercan</h1>
 # 🌱 I’m currently learning <span style="color:green;">Full Stack Development.</span>
