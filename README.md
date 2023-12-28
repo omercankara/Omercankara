@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ömercan</h1>
+<h1 align="center">I'm Ömercan</h1>
 # 🌱 I’m currently learning <span style="color:green;">Full Stack Development.</span>
 
 
